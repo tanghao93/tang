@@ -1,3 +1,2 @@
 # tang
 abc
-version
